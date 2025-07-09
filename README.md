@@ -53,30 +53,39 @@
 ---
 ## 🚀 Featured Projects
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+
   <a href="https://github.com/HARSHIT-SAXENA3007/ElecTrend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=ElecTrend&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=ElecTrend&theme=radical" 
+         width="400" height="180" alt="ElecTrend" />
   </a>
+
   <a href="https://github.com/HARSHIT-SAXENA3007/CarbonQuest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=CarbonQuest&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=CarbonQuest&theme=radical" 
+         width="400" height="180" alt="CarbonQuest" />
   </a>
+
   <a href="https://github.com/HARSHIT-SAXENA3007/Blind-system-billing-for-visually-impaired-people">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=Blind-system-billing-for-visually-impaired-people&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=Blind-system-billing-for-visually-impaired-people&theme=radical" 
+         width="400" height="180" alt="Blind Billing System" />
   </a>
-</p>
+
+</div>
+
 
 ---
 ## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&cache_seconds=3600&theme=merko" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHIT-SAXENA3007&cache_seconds=3600&theme=merko" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&cache_seconds=3600&theme=merko" width="48%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=radical&cache_seconds=3600" width="45%" style="margin: 10px;" />
+  
+  <img src="https://streak-stats.demolab.com/?user=HARSHIT-SAXENA3007&theme=radical&hide_border=false&border_radius=10" width="45%" style="margin: 10px;" />
 
----
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&cache_seconds=3600" width="45%" style="margin-top: 20px;" />
+
+</div>
 
 
 ---
