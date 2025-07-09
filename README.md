@@ -17,3 +17,7 @@
   - *Defence Research & Development Organization* – Research on adversarial machine learning  
   - *Infosys Springboard* – AI-driven lead scoring system  
   - *The Blind Relief Association* – Voice-automated billing system for the visually impaired  
+- 🔍 Actively seeking roles in *Machine Learning, **Deep Learning, and **Software Development*  
+- 🧠 Strong problem-solving abilities, effective team player, and excellent communication skills  
+- 🎙 Enjoy debating, writing poems, and public speaking  
+- 📄 [Check Out My Resume](https://drive.google.com/file/d/1ZroevETCSRYqxvD7VE8VznlV8W6PqUv6/view?usp=sharing)
