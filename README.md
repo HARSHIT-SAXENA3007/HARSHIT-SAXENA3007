@@ -51,6 +51,7 @@
 </div>
 
 ---
+
 ## 🚀 Featured Projects
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
@@ -72,8 +73,8 @@
 
 </div>
 
-
 ---
+
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
@@ -87,9 +88,9 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" 
-       width="560" height="195" alt="Top Languages" />
-
+       width="440"  alt="Top Languages" />
 </div>
+
 ---
 
 ## 📝 Creative Corner
@@ -102,6 +103,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVwNHZ0NmxiNnZud3lvMTBvc2VqY2tmbndyczNlZjZ1czdhMDNoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BXdiVyfljpd16/giphy.gif" width="300" />
 
 ---
+
 ## 📫 Connect with me
 
 <p align="left">
@@ -121,5 +123,5 @@
 
 ---
 
-> “Think like a machine. Build for the people.”
+> _“Think like a machine. Build for the people.”_
 
