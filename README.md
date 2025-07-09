@@ -43,7 +43,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60" alt="Matplotlib"/>&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn" />&nbsp;&nbsp;&nbsp;
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="40" alt="Seaborn" />
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="40" alt="Seaborn" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="60" height="60" alt="Git"/>&nbsp;&nbsp;&nbsp;
   </marquee>
 </div>
 
