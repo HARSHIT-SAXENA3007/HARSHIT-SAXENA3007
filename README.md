@@ -51,4 +51,19 @@
 </div>
 
 ---
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/HARSHIT-SAXENA3007/ElecTrend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=ElecTrend&theme=radical" />
+  </a>
+  <a href="https://github.com/HARSHIT-SAXENA3007/CarbonQuest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=CarbonQuest&theme=radical" />
+  </a>
+  <a href="https://github.com/HARSHIT-SAXENA3007/Blind-system-billing-for-visually-impaired-people">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=Blind-system-billing-for-visually-impaired-people&theme=radical" />
+  </a>
+</p>
+
+---
 
