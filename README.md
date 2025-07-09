@@ -57,17 +57,17 @@
 
   <a href="https://github.com/HARSHIT-SAXENA3007/ElecTrend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=ElecTrend&theme=radical" 
-         width="400" height="180" alt="ElecTrend" />
+         width="435" height="195" alt="ElecTrend" />
   </a>
 
   <a href="https://github.com/HARSHIT-SAXENA3007/CarbonQuest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=CarbonQuest&theme=radical" 
-         width="400" height="180" alt="CarbonQuest" />
+         width="435" height="195" alt="CarbonQuest" />
   </a>
-
+  <br>
   <a href="https://github.com/HARSHIT-SAXENA3007/Blind-system-billing-for-visually-impaired-people">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=Blind-system-billing-for-visually-impaired-people&theme=radical" 
-         width="400" height="180" alt="Blind Billing System" />
+         width="435" height="195" alt="Blind Billing System" />
   </a>
 
 </div>
@@ -77,16 +77,13 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=radical&cache_seconds=3600" width="45%" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=radical&hide_border=false&border_radius=10" width="435" style="margin: 10px;" />
   
-  <img src="https://streak-stats.demolab.com/?user=HARSHIT-SAXENA3007&theme=radical&hide_border=false&border_radius=10" width="45%" style="margin: 10px;" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&cache_seconds=3600" width="45%" style="margin-top: 20px;" />
+  <img src="https://streak-stats.demolab.com?user=HARSHIT-SAXENA3007&theme=radical&hide_border=false&border_radius=10" width="460" style="margin: 10px;" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" width="415" style="margin: 10px;" />
 
 </div>
-
 
 ---
 
