@@ -75,18 +75,19 @@
 
 ---
 ## 📊 GitHub Stats
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=radical&hide_border=false&border_radius=10" width="420" style="margin: 10px;" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=HARSHIT-SAXENA3007&theme=radical&hide_border=false&border_radius=10" width="420" style="margin: 10px;" />
-  
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=radical&hide_border=false&border_radius=10" 
+       width="435" height="195" alt="GitHub Stats" />
 
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=HARSHIT-SAXENA3007&theme=radical&hide_border=false&border_radius=10" 
+       width="435" height="195" alt="GitHub Streak" />
+  
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" width="600" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" 
+       width="435" height="195" alt="Top Languages" />
 
 </div>
 
