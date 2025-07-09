@@ -4,7 +4,16 @@
 
 ---
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJnZGp4MmFpZmhxMWRkODBudTA2ZjBwOWlhd2x4dmN2dnlhZXprbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="512" height="126" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJnZGp4MmFpZmhxMWRkODBudTA2ZjBwOWlhd2x4dmN2dnlhZXprbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
 </p>
 
 ---
+## 🌱 About Me
+
+- 🎓 Final year Computer Science Engineering student  
+- 🤖 Passionate about developing impactful ML and DL projects  
+- 💻 Proficient in Python, with a growing interest in full-stack development  
+- 🧪 Completed internships at:
+  - *Defence Research & Development Organization* – Research on adversarial machine learning  
+  - *Infosys Springboard* – AI-driven lead scoring system  
+  - *The Blind Relief Association* – Voice-automated billing system for the visually impaired  
