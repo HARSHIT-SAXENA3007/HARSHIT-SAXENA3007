@@ -77,13 +77,19 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=radical&hide_border=false&border_radius=10" width="435" style="margin: 10px;" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=radical&hide_border=false&border_radius=10" width="420" style="margin: 10px;" />
   
-  <img src="https://streak-stats.demolab.com?user=HARSHIT-SAXENA3007&theme=radical&hide_border=false&border_radius=10" width="460" style="margin: 10px;" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=HARSHIT-SAXENA3007&theme=radical&hide_border=false&border_radius=10" width="420" style="margin: 10px;" />
+  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" width="415" style="margin: 10px;" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" width="865" style="margin: 10px;" />
 
 </div>
+
 
 ---
 
