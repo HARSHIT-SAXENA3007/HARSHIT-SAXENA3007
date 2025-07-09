@@ -87,11 +87,11 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" 
-       width="480" height="195" alt="Top Languages" />
+       width="525" height="195" alt="Top Languages" />
 
 </div>
 ---
-## 📝 Creative Corner
+##📝 Creative Corner
 
 > "When code sleeps, poetry speaks." ✍  
 > I express myself through words when I'm not building tech.
@@ -99,7 +99,6 @@
 ✨ Check out my poetry blog: [*Serenity of Poems*](https://poeticplatform.wordpress.com)  
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVwNHZ0NmxiNnZud3lvMTBvc2VqY2tmbndyczNlZjZ1czdhMDNoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BXdiVyfljpd16/giphy.gif" width="300" />
-
 
 ---
 
