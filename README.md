@@ -86,7 +86,7 @@
   <br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" width="865" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" width="420" style="margin: 10px;" />
 
 </div>
 
