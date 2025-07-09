@@ -87,11 +87,12 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" 
-       width="525" height="195" alt="Top Languages" />
+       width="560" height="195" alt="Top Languages" />
 
 </div>
 ---
-##📝 Creative Corner
+
+## 📝 Creative Corner
 
 > "When code sleeps, poetry speaks." ✍  
 > I express myself through words when I'm not building tech.
@@ -101,5 +102,24 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVwNHZ0NmxiNnZud3lvMTBvc2VqY2tmbndyczNlZjZ1czdhMDNoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BXdiVyfljpd16/giphy.gif" width="300" />
 
 ---
+## 📫 Connect with me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshit-saxena-562305294/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_harshit_3007/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:harshitsaxena3007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
+  </a>
+</p>
+
+
+---
+
+> “Think like a machine. Build for the people.”
 
