@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=100&color=FFFFFF&background=00000000&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Saxena;%F0%9F%A4%96+ML+%26+DL+Enthusiast+%7C+%F0%9F%92%BB+Python+Developer;%F0%9F%9B%A0%EF%B8%8F+Full+Stack+Explorer+%7C+%F0%9F%93%9D%EF%B8%8F+Poet+%7C+%F0%9F%8E%A4+Debater" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=75&color=FFFFFF&background=00000000&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Saxena;%F0%9F%A4%96+ML+%26+DL+Enthusiast+%7C+%F0%9F%92%BB+Python+Developer;%F0%9F%9B%A0%EF%B8%8F+Full+Stack+Explorer+%7C+%F0%9F%93%9D%EF%B8%8F+Poet+%7C+%F0%9F%8E%A4+Debater" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
   - *Defence Research & Development Organization* – Research on adversarial machine learning  
   - *Infosys Springboard* – AI-driven lead scoring system  
   - *The Blind Relief Association* – Voice-automated billing system for the visually impaired  
-- 🔍 Actively seeking roles in *Machine Learning, **Deep Learning, and **Software Development*  
+- 🔍 Actively seeking roles in **Machine Learning**, **Deep Learning**, and **Software Development**  
 - 🧠 Strong problem-solving abilities, effective team player, and excellent communication skills  
 - 🎙 Enjoy debating, writing poems, and public speaking  
 - 📄 [Check Out My Resume](https://drive.google.com/file/d/1ZroevETCSRYqxvD7VE8VznlV8W6PqUv6/view?usp=sharing)
@@ -95,7 +95,7 @@
 
 ## 📝 Creative Corner
 
-> "When code sleeps, poetry speaks." ✍  
+> _"When code sleeps, poetry speaks." ✍_  
 > I express myself through words when I'm not building tech.
 
 ✨ Check out my poetry blog: [*Serenity of Poems*](https://poeticplatform.wordpress.com)  
