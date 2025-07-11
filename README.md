@@ -83,7 +83,7 @@
        width="435" height="195" alt="GitHub Stats" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=dark&hide_border=false&border_radius=10"
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HARSHIT-SAXENA3007&show_icons=true&theme=dark&hide_border=false&border_radius=10"
        width="435" height="195" alt="GitHub Streak" />
 
   <!-- Top Languages -->
