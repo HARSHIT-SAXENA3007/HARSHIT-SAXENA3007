@@ -57,17 +57,17 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
   <a href="https://github.com/HARSHIT-SAXENA3007/ElecTrend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=ElecTrend&theme=radical" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=ElecTrend&theme=dark" 
          width="435" height="195" alt="ElecTrend" />
   </a>
 
   <a href="https://github.com/HARSHIT-SAXENA3007/CarbonQuest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=CarbonQuest&theme=radical" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=CarbonQuest&theme=dark" 
          width="435" height="195" alt="CarbonQuest" />
   </a>
   <br>
   <a href="https://github.com/HARSHIT-SAXENA3007/Blind-system-billing-for-visually-impaired-people">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=Blind-system-billing-for-visually-impaired-people&theme=radical" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHIT-SAXENA3007&repo=Blind-system-billing-for-visually-impaired-people&theme=dark" 
          width="435" height="195" alt="Blind Billing System" />
   </a>
 
@@ -79,16 +79,16 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=radical&hide_border=false&border_radius=10" 
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=dark&hide_border=false&border_radius=10" 
        width="435" height="195" alt="GitHub Stats" />
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=HARSHIT-SAXENA3007&theme=radical&hide_border=false&border_radius=10" 
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-SAXENA3007&show_icons=true&theme=dark&hide_border=false&border_radius=10"
        width="435" height="195" alt="GitHub Streak" />
-  
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=radical&hide_border=false&border_radius=10" 
-       width="440"  alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-SAXENA3007&layout=compact&theme=dark&hide_border=false&border_radius=10" 
+       width="435"  alt="Top Languages" />
 </div>
 
 ---
